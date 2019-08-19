@@ -1,0 +1,2 @@
+class OverworkedException(Exception):
+    pass
